@@ -1,0 +1,140 @@
+{
+  "settings" : [ {
+    "key" : "userFtp",
+    "valueType" : "number",
+    "defaultValue" : 200,
+    "configTitle" : "$literal0$",
+    "configPrompt" : null,
+    "configType" : "numeric",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : null,
+    "configMin" : 50,
+    "configMax" : 600,
+    "configMaxLength" : null
+  }, {
+    "key" : "raceType",
+    "valueType" : "number",
+    "defaultValue" : 2,
+    "configTitle" : "$literal1$",
+    "configPrompt" : null,
+    "configType" : "list",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : [ {
+      "display" : "$literal2$",
+      "value" : 0
+    }, {
+      "display" : "$literal3$",
+      "value" : 1
+    }, {
+      "display" : "$literal4$",
+      "value" : 2
+    }, {
+      "display" : "$literal5$",
+      "value" : 3
+    } ],
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  }, {
+    "key" : "userHrThreshold",
+    "valueType" : "number",
+    "defaultValue" : 165,
+    "configTitle" : "$literal6$",
+    "configPrompt" : null,
+    "configType" : "numeric",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : null,
+    "configMin" : 100,
+    "configMax" : 220,
+    "configMaxLength" : null
+  }, {
+    "key" : "fuelTimer",
+    "valueType" : "number",
+    "defaultValue" : 1200,
+    "configTitle" : "$literal7$",
+    "configPrompt" : null,
+    "configType" : "list",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : [ {
+      "display" : "$literal8$",
+      "value" : 900
+    }, {
+      "display" : "$literal9$",
+      "value" : 1200
+    }, {
+      "display" : "$literal10$",
+      "value" : 1800
+    }, {
+      "display" : "$literal11$",
+      "value" : 2700
+    } ],
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  }, {
+    "key" : "pacingBuffer",
+    "valueType" : "number",
+    "defaultValue" : 20,
+    "configTitle" : "$literal12$",
+    "configPrompt" : null,
+    "configType" : "list",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : [ {
+      "display" : "$literal13$",
+      "value" : 10
+    }, {
+      "display" : "$literal14$",
+      "value" : 15
+    }, {
+      "display" : "$literal15$",
+      "value" : 20
+    }, {
+      "display" : "$literal16$",
+      "value" : 30
+    } ],
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  } ],
+  "supportsLiveValidation" : false,
+  "languages" : {
+    "valyrian" : {
+      "FuelAlertLabel" : "Fuel Alert",
+      "FuelUnitLabel" : "State",
+      "AppName" : "Test",
+      "$literal1$" : "Target Race Pacing",
+      "$literal15$" : "Standard Rolling (±20 Watts)",
+      "$literal0$" : "Your Personal FTP",
+      "$literal16$" : "Relaxed Hilly (±30 Watts)",
+      "PacingStateLabel" : "Pacing State",
+      "$literal3$" : "Olympic / Short Fondo (87% FTP)",
+      "$literal13$" : "Strict Pro (±10 Watts)",
+      "$literal2$" : "Short TT / Crit (95% FTP)",
+      "$literal14$" : "Tight Racing (±15 Watts)",
+      "$literal5$" : "Full Ironman / Century (72% FTP)",
+      "$literal4$" : "Half-Ironman / Med Fondo (80% FTP)",
+      "$literal7$" : "Fueling Alert Frequency",
+      "$literal6$" : "Lactate Threshold HR",
+      "$literal9$" : "Every 20 Minutes",
+      "$literal8$" : "Every 15 Minutes",
+      "$literal11$" : "Every 45 Minutes",
+      "$literal12$" : "Pacing Sensitivity Window",
+      "$literal10$" : "Every 30 Minutes"
+    }
+  }
+}

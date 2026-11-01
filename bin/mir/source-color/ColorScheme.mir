@@ -1,0 +1,22 @@
+[ @file = "C:\Users\iyera\Downloads\WattPace\source-color\ColorScheme.mc"; @line = 1; @symbol_importdef<0> = [Toybox,1,7,13]; @symbol_importdef<1> = [Graphics,1,14,22]; ]
+import Toybox.Graphics;
+[ @file = "C:\Users\iyera\Downloads\WattPace\source-color\ColorScheme.mc"; @line = 3; @symbol_moduledef = [ColorScheme,3,7,18]; ]
+module ColorScheme {
+    [ @file = "C:\Users\iyera\Downloads\WattPace\source-color\ColorScheme.mc"; @line = 3; ]
+    <init> {
+    }
+    [ @file = "C:\Users\iyera\Downloads\WattPace\source-color\ColorScheme.mc"; @line = 4; @symbol_functiondef = [getSpeedColor,4,13,26]; @symbol_return<0> = [Graphics,4,32,40]; @symbol_return<1> = [ColorType,4,41,50]; ]
+    function getSpeedColor() as Graphics.ColorType {
+C__Users_iyera_Downloads_WattPace_source_color_ColorScheme_mc_4_51_6_4_start:
+[ "C:\Users\iyera\Downloads\WattPace\source-color\ColorScheme.mc" 5 8 ]
+        symbol [ Graphics %tmp.1 5 15 23 ];
+        %tmp.1 = getm $.Toybox.Graphics;
+        symbol [ COLOR_BLUE %tmp.2 5 24 34 ];
+        %tmp.2 = getv %tmp.1 :COLOR_BLUE;
+        ret %tmp.2;
+C__Users_iyera_Downloads_WattPace_source_color_ColorScheme_mc_4_51_6_4_stop:
+    }
+}
+[ @file = "C:\Users\iyera\Downloads\WattPace\source-color\ColorScheme.mc"; @line = 1; ]
+<init> {
+}

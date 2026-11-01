@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\iyera\Downloads\Race Pace and Fuel\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestApp.mc" id="1" lineNum="5" parent="globals/TestApp" pc="268435457" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestApp.mc" id="2" lineNum="36" parent="globals" pc="268435469" symbol="getApp"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestApp.mc" id="2" lineNum="37" parent="globals" pc="268435479" symbol="getApp"/>
+        <entry filename="c:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\bin\\gen\\006-B3906-00\\source\\Rez.mcgen" id="3" lineNum="7" parent="globals/Rez" pc="268435490" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="4" lineNum="11" parent="globals/TestView" pc="268435510" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="4" lineNum="38" parent="globals/TestView" pc="268435521" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestApp.mc" id="6" lineNum="27" parent="globals/TestApp" pc="268435531" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestApp.mc" id="6" lineNum="28" parent="globals/TestApp" pc="268435533" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestApp.mc" id="6" lineNum="29" parent="globals/TestApp" pc="268435542" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestApp.mc" id="6" lineNum="30" parent="globals/TestApp" pc="268435554" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestApp.mc" id="7" lineNum="14" parent="globals/TestApp" pc="268435566" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestApp.mc" id="7" lineNum="15" parent="globals/TestApp" pc="268435569" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestApp.mc" id="7" lineNum="16" parent="globals/TestApp" pc="268435589" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestApp.mc" id="7" lineNum="17" parent="globals/TestApp" pc="268435598" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestApp.mc" id="8" lineNum="9" parent="globals/TestApp" pc="268435608" symbol="initialize"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestApp.mc" id="8" lineNum="10" parent="globals/TestApp" pc="268435610" symbol="initialize"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="10" lineNum="99" parent="globals/TestView" pc="268435623" symbol="&lt;globals/TestView/&lt;&gt;triggerAlertHardwareCues&gt;"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="10" lineNum="101" parent="globals/TestView" pc="268435626" symbol="&lt;globals/TestView/&lt;&gt;triggerAlertHardwareCues&gt;"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="10" lineNum="102" parent="globals/TestView" pc="268435656" symbol="&lt;globals/TestView/&lt;&gt;triggerAlertHardwareCues&gt;"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="10" lineNum="105" parent="globals/TestView" pc="268435671" symbol="&lt;globals/TestView/&lt;&gt;triggerAlertHardwareCues&gt;"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="10" lineNum="106" parent="globals/TestView" pc="268435701" symbol="&lt;globals/TestView/&lt;&gt;triggerAlertHardwareCues&gt;"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="10" lineNum="112" parent="globals/TestView" pc="268435796" symbol="&lt;globals/TestView/&lt;&gt;triggerAlertHardwareCues&gt;"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="10" lineNum="114" parent="globals/TestView" pc="268435812" symbol="&lt;globals/TestView/&lt;&gt;triggerAlertHardwareCues&gt;"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="118" parent="globals/TestView" pc="268435820" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="119" parent="globals/TestView" pc="268435823" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="120" parent="globals/TestView" pc="268435831" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="121" parent="globals/TestView" pc="268435844" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="122" parent="globals/TestView" pc="268435852" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="123" parent="globals/TestView" pc="268435864" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="125" parent="globals/TestView" pc="268435872" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="125" parent="globals/TestView" pc="268435881" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="126" parent="globals/TestView" pc="268435896" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="126" parent="globals/TestView" pc="268435905" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="127" parent="globals/TestView" pc="268435920" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="130" parent="globals/TestView" pc="268435921" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="131" parent="globals/TestView" pc="268435929" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="132" parent="globals/TestView" pc="268435937" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="134" parent="globals/TestView" pc="268435945" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="135" parent="globals/TestView" pc="268435951" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="136" parent="globals/TestView" pc="268435959" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="137" parent="globals/TestView" pc="268435975" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="138" parent="globals/TestView" pc="268435992" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="140" parent="globals/TestView" pc="268436007" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="141" parent="globals/TestView" pc="268436010" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="142" parent="globals/TestView" pc="268436030" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="144" parent="globals/TestView" pc="268436053" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="146" parent="globals/TestView" pc="268436083" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="147" parent="globals/TestView" pc="268436098" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="148" parent="globals/TestView" pc="268436109" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="149" parent="globals/TestView" pc="268436118" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="153" parent="globals/TestView" pc="268436126" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="154" parent="globals/TestView" pc="268436132" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="157" parent="globals/TestView" pc="268436141" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="158" parent="globals/TestView" pc="268436157" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="159" parent="globals/TestView" pc="268436166" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="160" parent="globals/TestView" pc="268436178" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="162" parent="globals/TestView" pc="268436189" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="164" parent="globals/TestView" pc="268436201" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="165" parent="globals/TestView" pc="268436214" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="167" parent="globals/TestView" pc="268436227" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="168" parent="globals/TestView" pc="268436234" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="170" parent="globals/TestView" pc="268436241" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="171" parent="globals/TestView" pc="268436265" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="172" parent="globals/TestView" pc="268436274" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="173" parent="globals/TestView" pc="268436286" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="174" parent="globals/TestView" pc="268436294" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="175" parent="globals/TestView" pc="268436305" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="176" parent="globals/TestView" pc="268436329" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="177" parent="globals/TestView" pc="268436338" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="178" parent="globals/TestView" pc="268436355" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="179" parent="globals/TestView" pc="268436363" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="181" parent="globals/TestView" pc="268436374" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="182" parent="globals/TestView" pc="268436383" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="183" parent="globals/TestView" pc="268436394" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="184" parent="globals/TestView" pc="268436402" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="188" parent="globals/TestView" pc="268436410" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="190" parent="globals/TestView" pc="268436417" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="191" parent="globals/TestView" pc="268436437" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="192" parent="globals/TestView" pc="268436445" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="193" parent="globals/TestView" pc="268436460" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="194" parent="globals/TestView" pc="268436478" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="196" parent="globals/TestView" pc="268436503" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="197" parent="globals/TestView" pc="268436513" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="198" parent="globals/TestView" pc="268436541" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="201" parent="globals/TestView" pc="268436549" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="203" parent="globals/TestView" pc="268436552" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="204" parent="globals/TestView" pc="268436560" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="205" parent="globals/TestView" pc="268436572" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="206" parent="globals/TestView" pc="268436580" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="207" parent="globals/TestView" pc="268436602" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="210" parent="globals/TestView" pc="268436619" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="211" parent="globals/TestView" pc="268436628" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="213" parent="globals/TestView" pc="268436649" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="11" lineNum="214" parent="globals/TestView" pc="268436658" symbol="compute"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="69" parent="globals/TestView" pc="268436680" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="70" parent="globals/TestView" pc="268436683" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="71" parent="globals/TestView" pc="268436702" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="72" parent="globals/TestView" pc="268436721" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="73" parent="globals/TestView" pc="268436740" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="74" parent="globals/TestView" pc="268436759" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="76" parent="globals/TestView" pc="268436778" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="77" parent="globals/TestView" pc="268436784" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="80" parent="globals/TestView" pc="268436793" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="81" parent="globals/TestView" pc="268436805" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="82" parent="globals/TestView" pc="268436809" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="84" parent="globals/TestView" pc="268436813" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="84" parent="globals/TestView" pc="268436820" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="85" parent="globals/TestView" pc="268436844" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="85" parent="globals/TestView" pc="268436852" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="86" parent="globals/TestView" pc="268436876" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="86" parent="globals/TestView" pc="268436884" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="87" parent="globals/TestView" pc="268436908" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="87" parent="globals/TestView" pc="268436916" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="90" parent="globals/TestView" pc="268436937" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="91" parent="globals/TestView" pc="268436943" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="94" parent="globals/TestView" pc="268436952" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="12" lineNum="95" parent="globals/TestView" pc="268436958" symbol="loadUserSettings"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="13" lineNum="48" parent="globals/TestView" pc="268436968" symbol="initialize"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="13" lineNum="49" parent="globals/TestView" pc="268436971" symbol="initialize"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="13" lineNum="50" parent="globals/TestView" pc="268436983" symbol="initialize"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="13" lineNum="51" parent="globals/TestView" pc="268436990" symbol="initialize"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="13" lineNum="52" parent="globals/TestView" pc="268436995" symbol="initialize"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="13" lineNum="54" parent="globals/TestView" pc="268437023" symbol="initialize"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="13" lineNum="61" parent="globals/TestView" pc="268437059" symbol="initialize"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="14" lineNum="218" parent="globals/TestView" pc="268437097" symbol="&lt;globals/TestView/&lt;&gt;drawArrow&gt;"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="14" lineNum="219" parent="globals/TestView" pc="268437100" symbol="&lt;globals/TestView/&lt;&gt;drawArrow&gt;"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="14" lineNum="222" parent="globals/TestView" pc="268437104" symbol="&lt;globals/TestView/&lt;&gt;drawArrow&gt;"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="14" lineNum="223" parent="globals/TestView" pc="268437109" symbol="&lt;globals/TestView/&lt;&gt;drawArrow&gt;"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="14" lineNum="229" parent="globals/TestView" pc="268437184" symbol="&lt;globals/TestView/&lt;&gt;drawArrow&gt;"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="14" lineNum="236" parent="globals/TestView" pc="268437256" symbol="&lt;globals/TestView/&lt;&gt;drawArrow&gt;"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="239" parent="globals/TestView" pc="268437269" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="240" parent="globals/TestView" pc="268437272" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="241" parent="globals/TestView" pc="268437281" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="243" parent="globals/TestView" pc="268437290" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="244" parent="globals/TestView" pc="268437302" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="245" parent="globals/TestView" pc="268437310" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="246" parent="globals/TestView" pc="268437318" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="249" parent="globals/TestView" pc="268437329" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="250" parent="globals/TestView" pc="268437339" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="251" parent="globals/TestView" pc="268437349" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="256" parent="globals/TestView" pc="268437359" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="257" parent="globals/TestView" pc="268437382" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="258" parent="globals/TestView" pc="268437389" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="260" parent="globals/TestView" pc="268437396" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="261" parent="globals/TestView" pc="268437401" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="262" parent="globals/TestView" pc="268437404" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="265" parent="globals/TestView" pc="268437411" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="266" parent="globals/TestView" pc="268437425" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="267" parent="globals/TestView" pc="268437441" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="272" parent="globals/TestView" pc="268437455" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="273" parent="globals/TestView" pc="268437462" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="275" parent="globals/TestView" pc="268437469" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="276" parent="globals/TestView" pc="268437479" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="276" parent="globals/TestView" pc="268437486" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="277" parent="globals/TestView" pc="268437496" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="278" parent="globals/TestView" pc="268437507" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="278" parent="globals/TestView" pc="268437514" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="279" parent="globals/TestView" pc="268437524" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="280" parent="globals/TestView" pc="268437535" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="280" parent="globals/TestView" pc="268437542" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="281" parent="globals/TestView" pc="268437552" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="282" parent="globals/TestView" pc="268437563" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="282" parent="globals/TestView" pc="268437570" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="283" parent="globals/TestView" pc="268437580" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="284" parent="globals/TestView" pc="268437591" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="284" parent="globals/TestView" pc="268437604" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="285" parent="globals/TestView" pc="268437620" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="286" parent="globals/TestView" pc="268437631" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="286" parent="globals/TestView" pc="268437644" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="287" parent="globals/TestView" pc="268437660" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="288" parent="globals/TestView" pc="268437671" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="288" parent="globals/TestView" pc="268437684" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="294" parent="globals/TestView" pc="268437697" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="295" parent="globals/TestView" pc="268437700" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="296" parent="globals/TestView" pc="268437703" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="298" parent="globals/TestView" pc="268437711" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="299" parent="globals/TestView" pc="268437719" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="300" parent="globals/TestView" pc="268437725" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="301" parent="globals/TestView" pc="268437733" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="303" parent="globals/TestView" pc="268437743" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="306" parent="globals/TestView" pc="268437753" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="307" parent="globals/TestView" pc="268437761" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="308" parent="globals/TestView" pc="268437767" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="309" parent="globals/TestView" pc="268437775" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="311" parent="globals/TestView" pc="268437785" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="315" parent="globals/TestView" pc="268437795" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="320" parent="globals/TestView" pc="268437808" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="321" parent="globals/TestView" pc="268437812" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="322" parent="globals/TestView" pc="268437816" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="324" parent="globals/TestView" pc="268437819" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="325" parent="globals/TestView" pc="268437832" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="327" parent="globals/TestView" pc="268437847" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="329" parent="globals/TestView" pc="268437850" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="331" parent="globals/TestView" pc="268437856" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="332" parent="globals/TestView" pc="268437878" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="333" parent="globals/TestView" pc="268437900" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="334" parent="globals/TestView" pc="268437922" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="337" parent="globals/TestView" pc="268437944" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="340" parent="globals/TestView" pc="268437948" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="341" parent="globals/TestView" pc="268438007" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="342" parent="globals/TestView" pc="268438066" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="343" parent="globals/TestView" pc="268438125" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="348" parent="globals/TestView" pc="268438184" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="349" parent="globals/TestView" pc="268438189" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="351" parent="globals/TestView" pc="268438232" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="354" parent="globals/TestView" pc="268438262" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="356" parent="globals/TestView" pc="268438267" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="357" parent="globals/TestView" pc="268438286" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="361" parent="globals/TestView" pc="268438289" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="362" parent="globals/TestView" pc="268438294" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="365" parent="globals/TestView" pc="268438300" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="366" parent="globals/TestView" pc="268438308" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="367" parent="globals/TestView" pc="268438315" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="368" parent="globals/TestView" pc="268438323" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="369" parent="globals/TestView" pc="268438329" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="372" parent="globals/TestView" pc="268438350" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="373" parent="globals/TestView" pc="268438354" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="374" parent="globals/TestView" pc="268438357" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="375" parent="globals/TestView" pc="268438364" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="376" parent="globals/TestView" pc="268438386" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="377" parent="globals/TestView" pc="268438393" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="378" parent="globals/TestView" pc="268438415" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="379" parent="globals/TestView" pc="268438418" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="381" parent="globals/TestView" pc="268438424" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="385" parent="globals/TestView" pc="268438427" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="386" parent="globals/TestView" pc="268438440" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="391" parent="globals/TestView" pc="268438458" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="392" parent="globals/TestView" pc="268438466" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="393" parent="globals/TestView" pc="268438469" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="394" parent="globals/TestView" pc="268438477" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="395" parent="globals/TestView" pc="268438481" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="396" parent="globals/TestView" pc="268438484" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="403" parent="globals/TestView" pc="268438499" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="404" parent="globals/TestView" pc="268438518" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="405" parent="globals/TestView" pc="268438530" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="406" parent="globals/TestView" pc="268438546" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="412" parent="globals/TestView" pc="268438571" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="414" parent="globals/TestView" pc="268438603" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="415" parent="globals/TestView" pc="268438608" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="416" parent="globals/TestView" pc="268438612" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="419" parent="globals/TestView" pc="268438616" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="420" parent="globals/TestView" pc="268438626" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="423" parent="globals/TestView" pc="268438636" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="426" parent="globals/TestView" pc="268438643" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="435" parent="globals/TestView" pc="268438663" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="437" parent="globals/TestView" pc="268438679" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="438" parent="globals/TestView" pc="268438690" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="439" parent="globals/TestView" pc="268438707" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="440" parent="globals/TestView" pc="268438718" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source\\TestView.mc" id="15" lineNum="445" parent="globals/TestView" pc="268438735" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source-color\\ColorScheme.mc" id="16" lineNum="4" parent="globals/ColorScheme" pc="268438762" symbol="getSpeedColor"/>
+        <entry filename="C:\\Users\\iyera\\Downloads\\Race Pace and Fuel\\source-color\\ColorScheme.mc" id="16" lineNum="5" parent="globals/ColorScheme" pc="268438772" symbol="getSpeedColor"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="9" symbol="&lt;globals/TestApp/&lt;&gt;myView&gt;"/>
+        <entry id="25" method="true" symbol="&lt;globals/TestView/&lt;&gt;triggerAlertHardwareCues&gt;"/>
+        <entry field="true" id="36" symbol="PacingStateLabel"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="7" object="true" symbol="TestApp"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="14" symbol="&lt;globals/TestView/&lt;&gt;hrZone4&gt;"/>
+        <entry field="true" id="17" symbol="&lt;globals/TestView/&lt;&gt;livePowerValue&gt;"/>
+        <entry id="11" method="true" symbol="&lt;globals/TestView/&lt;&gt;drawArrow&gt;"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="18" method="true" symbol="loadUserSettings"/>
+        <entry field="true" id="21" symbol="&lt;globals/TestView/&lt;&gt;nutritionFitField&gt;"/>
+        <entry field="true" id="29" symbol="&lt;globals/TestView/&lt;&gt;wasSlowLastSecond&gt;"/>
+        <entry field="true" id="33" symbol="AppName"/>
+        <entry field="true" id="27" symbol="&lt;globals/TestView/&lt;&gt;uiState&gt;"/>
+        <entry id="5" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388631" module="true" symbol="Activity"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="34" symbol="FuelAlertLabel"/>
+        <entry id="8390425" module="true" symbol="Properties"/>
+        <entry id="3" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="16" symbol="&lt;globals/TestView/&lt;&gt;lastKnownGoodHeartRate&gt;"/>
+        <entry field="true" id="20" symbol="&lt;globals/TestView/&lt;&gt;nextAlertSec&gt;"/>
+        <entry field="true" id="35" symbol="FuelUnitLabel"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="15" symbol="&lt;globals/TestView/&lt;&gt;isAlertActive&gt;"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry field="true" id="10" symbol="&lt;globals/TestView/&lt;&gt;cachedHrStatusAtAlertStart&gt;"/>
+        <entry id="8389137" method="true" symbol="compute"/>
+        <entry id="8388987" method="true" symbol="vibrate"/>
+        <entry field="true" id="30" symbol="&lt;globals/TestView/&lt;&gt;wasSpeedLastSecond&gt;"/>
+        <entry id="8" object="true" symbol="TestView"/>
+        <entry id="2" module="true" symbol="globals/ColorScheme"/>
+        <entry id="4" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="23" symbol="&lt;globals/TestView/&lt;&gt;targetBufferWatts&gt;"/>
+        <entry id="8388985" method="true" symbol="playTone"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="13" symbol="&lt;globals/TestView/&lt;&gt;fuelIntervalSec&gt;"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="31" method="true" symbol="getSpeedColor"/>
+        <entry field="true" id="32" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry field="true" id="28" symbol="&lt;globals/TestView/&lt;&gt;uiTextColor&gt;"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="8391194" symbol="requiresBurnInProtection"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389780" module="true" symbol="FitContributor"/>
+        <entry field="true" id="12" symbol="&lt;globals/TestView/&lt;&gt;fuelAlertFitField&gt;"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="19" symbol="&lt;globals/TestView/&lt;&gt;missedPowerSamples&gt;"/>
+        <entry id="8389847" symbol="mesgType"/>
+        <entry id="8388636" module="true" symbol="Attention"/>
+        <entry field="true" id="26" symbol="&lt;globals/TestView/&lt;&gt;uiBackgroundColor&gt;"/>
+        <entry field="true" id="24" symbol="&lt;globals/TestView/&lt;&gt;targetPower&gt;"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="6" module="true" symbol="ColorScheme"/>
+        <entry field="true" id="22" symbol="&lt;globals/TestView/&lt;&gt;powerHistory&gt;"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435810" name="vibePattern" stackId="1" startPc="268435701"/>
+        <entry endPc="268435817" name="e" stackId="2" startPc="268435812"/>
+        <entry arg="true" endPc="268436679" name="info" stackId="1" startPc="268435820"/>
+        <entry endPc="268436678" name="elapsedMs" stackId="2" startPc="268435823"/>
+        <entry endPc="268436678" name="currentPower" stackId="3" startPc="268435823"/>
+        <entry endPc="268436678" name="currentHr" stackId="4" startPc="268435823"/>
+        <entry endPc="268436678" name="totalSec" stackId="5" startPc="268435823"/>
+        <entry endPc="268436079" name="sumPower" stackId="6" startPc="268435951"/>
+        <entry endPc="268436052" name="i" stackId="7" startPc="268436030"/>
+        <entry endPc="268436409" name="highCutoff" stackId="8" startPc="268436189"/>
+        <entry endPc="268436409" name="lowCutoff" stackId="9" startPc="268436189"/>
+        <entry endPc="268436409" name="upperRelease" stackId="10" startPc="268436189"/>
+        <entry endPc="268436409" name="lowerRelease" stackId="11" startPc="268436189"/>
+        <entry endPc="268436678" name="pacingStateForFit" stackId="12" startPc="268435823"/>
+        <entry endPc="268436509" name="evaluationHr" stackId="13" startPc="268436437"/>
+        <entry endPc="268436678" name="fuelIndicatorForFit" stackId="14" startPc="268435823"/>
+        <entry endPc="268436966" name="rawFtp" stackId="1" startPc="268436683"/>
+        <entry endPc="268436966" name="rawRace" stackId="2" startPc="268436683"/>
+        <entry endPc="268436966" name="rawHr" stackId="3" startPc="268436683"/>
+        <entry endPc="268436966" name="rawFuelTimer" stackId="4" startPc="268436683"/>
+        <entry endPc="268436966" name="rawBuffer" stackId="5" startPc="268436683"/>
+        <entry endPc="268436936" name="ftp" stackId="6" startPc="268436805"/>
+        <entry endPc="268436936" name="raceSelection" stackId="7" startPc="268436805"/>
+        <entry endPc="268437095" name="firstAlertCapSec" stackId="1" startPc="268436971"/>
+        <entry arg="true" endPc="268437268" name="dc" stackId="1" startPc="268437097"/>
+        <entry arg="true" endPc="268437268" name="centerX" stackId="2" startPc="268437097"/>
+        <entry arg="true" endPc="268437268" name="centerY" stackId="3" startPc="268437097"/>
+        <entry arg="true" endPc="268437268" name="pointUp" stackId="4" startPc="268437097"/>
+        <entry endPc="268437267" name="size" stackId="5" startPc="268437100"/>
+        <entry endPc="268437267" name="points" stackId="6" startPc="268437100"/>
+        <entry arg="true" endPc="268438761" name="dc" stackId="1" startPc="268437269"/>
+        <entry endPc="268438760" name="width" stackId="2" startPc="268437272"/>
+        <entry endPc="268438760" name="height" stackId="3" startPc="268437272"/>
+        <entry endPc="268438760" name="deviceSettings" stackId="4" startPc="268437272"/>
+        <entry endPc="268438760" name="screenW" stackId="5" startPc="268437272"/>
+        <entry endPc="268438760" name="screenH" stackId="6" startPc="268437272"/>
+        <entry endPc="268438760" name="isRoundScreen" stackId="7" startPc="268437272"/>
+        <entry endPc="268438760" name="centerX" stackId="8" startPc="268437272"/>
+        <entry endPc="268438760" name="centerY" stackId="9" startPc="268437272"/>
+        <entry endPc="268438760" name="radius" stackId="10" startPc="268437272"/>
+        <entry endPc="268438760" name="requiresBurnInProtection" stackId="11" startPc="268437272"/>
+        <entry endPc="268438760" name="currentBgColor" stackId="12" startPc="268437272"/>
+        <entry endPc="268438760" name="currentTextColor" stackId="13" startPc="268437272"/>
+        <entry endPc="268438760" name="longText" stackId="14" startPc="268437272"/>
+        <entry endPc="268438760" name="shortText" stackId="15" startPc="268437272"/>
+        <entry endPc="268438760" name="fieldGlobalX" stackId="16" startPc="268437272"/>
+        <entry endPc="268438760" name="fieldGlobalY" stackId="17" startPc="268437272"/>
+        <entry endPc="268438760" name="obscurity" stackId="18" startPc="268437272"/>
+        <entry endPc="268438760" name="isSplitPane" stackId="19" startPc="268437272"/>
+        <entry endPc="268438760" name="stringToDraw" stackId="20" startPc="268437272"/>
+        <entry endPc="268438760" name="textFont" stackId="21" startPc="268437272"/>
+        <entry endPc="268438760" name="isSmallLayout" stackId="22" startPc="268437272"/>
+        <entry endPc="268438760" name="fontHeight" stackId="23" startPc="268437272"/>
+        <entry endPc="268438760" name="textWidth" stackId="24" startPc="268437272"/>
+        <entry endPc="268438760" name="passesCheck" stackId="25" startPc="268437272"/>
+        <entry endPc="268438454" name="textLeftX" stackId="26" startPc="268437856"/>
+        <entry endPc="268438454" name="textRightX" stackId="27" startPc="268437856"/>
+        <entry endPc="268438454" name="textTopY" stackId="28" startPc="268437856"/>
+        <entry endPc="268438454" name="textBotY" stackId="29" startPc="268437856"/>
+        <entry endPc="268438454" name="buffer" stackId="30" startPc="268437856"/>
+        <entry endPc="268438454" name="distTL" stackId="31" startPc="268437856"/>
+        <entry endPc="268438454" name="distTR" stackId="32" startPc="268437856"/>
+        <entry endPc="268438454" name="distBL" stackId="33" startPc="268437856"/>
+        <entry endPc="268438454" name="distBR" stackId="34" startPc="268437856"/>
+        <entry endPc="268438454" name="cornersAreInside" stackId="35" startPc="268437856"/>
+        <entry endPc="268438760" name="isSmallLayoutFlag" stackId="36" startPc="268437272"/>
+        <entry endPc="268438570" name="headerY" stackId="37" startPc="268438530"/>
+        <entry endPc="268438760" name="hasArrow" stackId="38" startPc="268437272"/>
+        <entry endPc="268438733" name="arrowWidth" stackId="39" startPc="268438608"/>
+        <entry endPc="268438733" name="arrowSpacing" stackId="40" startPc="268438608"/>
+        <entry endPc="268438733" name="totalBlockWidth" stackId="41" startPc="268438608"/>
+        <entry endPc="268438733" name="startX" stackId="42" startPc="268438608"/>
+        <entry endPc="268438733" name="arrowCenterY" stackId="43" startPc="268438608"/>
+        <entry endPc="268438733" name="arrowX" stackId="44" startPc="268438608"/>
+    </localVars>
+    <deviceInfo deviceVersion="361e256b74f66f7ba19da23c7ec7c7f06ab33c5c" partNumber="006-B3906-00"/>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="FuelAlertLabel"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="FuelUnitLabel"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="PacingStateLabel"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="58" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/TestApp" offset="134" parentId="globals" symbolId="TestApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="223" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/TestView" offset="267" parentId="globals" symbolId="TestView" type="class"/>
+        <dataEntry label="globals/ColorScheme" offset="518" parentId="globals" symbolId="ColorScheme" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="553" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="588" parentId="Rez" symbolId="Strings" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435468" name="&lt;init&gt;" parent="TestApp" startPc="268435457">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435489" name="getApp" startPc="268435469">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435509" name="&lt;init&gt;" parent="Rez" startPc="268435490">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435530" name="&lt;init&gt;" parent="TestView" startPc="268435510">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="ColorScheme">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="TestApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435565" name="onSettingsChanged" parent="TestApp" startPc="268435531">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435607" name="getInitialView" parent="TestApp" startPc="268435566">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435622" name="initialize" parent="TestApp" startPc="268435608">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="TestApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268435819" name="&lt;globals/TestView/&lt;&gt;triggerAlertHardwareCues&gt;" parent="TestView" startPc="268435623">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436679" name="compute" parent="TestView" startPc="268435820">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436967" name="loadUserSettings" parent="TestView" startPc="268436680">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437096" name="initialize" parent="TestView" startPc="268436968">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437268" name="&lt;globals/TestView/&lt;&gt;drawArrow&gt;" parent="TestView" startPc="268437097">
+            <param id="dc"/>
+            <param id="centerX"/>
+            <param id="centerY"/>
+            <param id="pointUp"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438761" name="onUpdate" parent="TestView" startPc="268437269">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438776" name="getSpeedColor" parent="ColorScheme" startPc="268438762">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

@@ -1,0 +1,20 @@
+<resources>
+    <fitContributions>
+        <fitField id="0" 
+                  displayInChart="true"
+                  displayInActivitySummary="false"
+                  chartTitle="@Strings.PacingStateLabel"
+                  dataLabel="@Strings.PacingStateLabel" 
+                  sortOrder="0" 
+                  precision="0" 
+                  unitLabel="@Strings.FuelUnitLabel" />
+        <fitField id="1" 
+                  displayInChart="true"
+                  displayInActivitySummary="false"
+                  chartTitle="@Strings.FuelAlertLabel"
+                  dataLabel="@Strings.FuelAlertLabel" 
+                  sortOrder="1" 
+                  precision="0" 
+                  unitLabel="@Strings.FuelUnitLabel" />
+    </fitContributions>
+</resources>

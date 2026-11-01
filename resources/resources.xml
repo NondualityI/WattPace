@@ -1,0 +1,55 @@
+<resources>
+    <!-- 1. TRANSLATABLE STRINGS FOR FIT GRAPHS -->
+<strings>
+    <string id="FuelUnitLabel">State</string>
+    <string id="FuelAlertLabel">Fuel Alert</string>
+    <string id="PacingStateLabel">Pacing State</string>
+</strings>
+
+    <!-- 2. MEMORY STORAGE (PROPERTIES) -->
+    <properties>
+        <property id="userFtp" type="number">200</property>
+        <property id="raceType" type="number">2</property> 
+        <property id="userHrThreshold" type="number">165</property>
+        <property id="fuelTimer" type="number">1200</property> 
+        <property id="pacingBuffer" type="number">20</property> 
+    </properties>
+
+    <!-- 3. USER PHONE MENU (SETTINGS) -->
+    <settings>
+        <setting propertyKey="@Properties.userFtp" title="Your Personal FTP">
+            <settingConfig type="numeric" min="50" max="600" />
+        </setting>
+
+        <setting propertyKey="@Properties.raceType" title="Target Race Pacing">
+            <settingConfig type="list">
+                <listEntry value="0">Short TT / Crit (95% FTP)</listEntry>
+                <listEntry value="1">Olympic / Short Fondo (87% FTP)</listEntry>
+                <listEntry value="2">Half-Ironman / Med Fondo (80% FTP)</listEntry>
+                <listEntry value="3">Full Ironman / Century (72% FTP)</listEntry>
+            </settingConfig>
+        </setting>
+
+        <setting propertyKey="@Properties.userHrThreshold" title="Lactate Threshold HR">
+            <settingConfig type="numeric" min="100" max="220" />
+        </setting>
+
+        <setting propertyKey="@Properties.fuelTimer" title="Fueling Alert Frequency">
+            <settingConfig type="list">
+                <listEntry value="900">Every 15 Minutes</listEntry>
+                <listEntry value="1200">Every 20 Minutes</listEntry>
+                <listEntry value="1800">Every 30 Minutes</listEntry>
+                <listEntry value="2700">Every 45 Minutes</listEntry>
+            </settingConfig>
+        </setting>
+
+        <setting propertyKey="@Properties.pacingBuffer" title="Pacing Sensitivity Window">
+            <settingConfig type="list">
+                <listEntry value="10">Strict Pro (±10 Watts)</listEntry>
+                <listEntry value="15">Tight Racing (±15 Watts)</listEntry>
+                <listEntry value="20">Standard Rolling (±20 Watts)</listEntry>
+                <listEntry value="30">Relaxed Hilly (±30 Watts)</listEntry>
+            </settingConfig>
+        </setting>
+    </settings>
+</resources>

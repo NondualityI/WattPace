@@ -1,0 +1,111 @@
+[ @file = "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc"; @line = 1; @symbol_importdef<0> = [Toybox,1,7,13]; @symbol_importdef<1> = [Application,1,14,25]; ]
+import Toybox.Application;
+[ @file = "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc"; @line = 2; @symbol_importdef<0> = [Toybox,2,7,13]; @symbol_importdef<1> = [Lang,2,14,18]; ]
+import Toybox.Lang;
+[ @file = "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc"; @line = 3; @symbol_importdef<0> = [Toybox,3,7,13]; @symbol_importdef<1> = [WatchUi,3,14,21]; ]
+import Toybox.WatchUi;
+[ @file = "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc"; @line = 5; @symbol_classdef = [TestApp,5,6,13]; @symbol_extends<0> = [Application,5,22,33]; @symbol_extends<1> = [AppBase,5,34,41]; ]
+class TestApp extends Application.AppBase {
+    [ @file = "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc"; @line = 5; ]
+    <init> {
+    }
+    [ @file = "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc"; @line = 5; ]
+    static
+    <init> {
+    }
+    [ @file = "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc"; @line = 7; @position = 16; @symbol_vardef = [myView,7,16,22]; @symbol_type<0> = [TestView,7,26,34]; ]
+    private
+    var myView as TestView or Null;
+    [ @file = "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc"; @line = 9; @symbol_functiondef = [initialize,9,13,23]; ]
+    function initialize() as Void {
+C__Users_iyera_Downloads_WattPace_source_TestApp_mc_9_26_11_4_start:
+[ "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc" 10 8 ]
+        symbol [ AppBase %tmp.2 10 8 15 ];
+        %tmp.2 = getv ? :AppBase;
+        symbol [ initialize %tmp.3 10 16 26 ];
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+C__Users_iyera_Downloads_WattPace_source_TestApp_mc_9_26_11_4_stop:
+    }
+    [ @file = "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc"; @line = 14; @symbol_functiondef = [getInitialView,14,13,27]; @symbol_return<0> = [WatchUi,14,34,41]; @symbol_return<1> = [Views,14,42,47]; @symbol_return<2> = [WatchUi,14,53,60]; @symbol_return<3> = [Views,14,61,66]; @symbol_return<4> = [WatchUi,14,68,75]; @symbol_return<5> = [InputDelegates,14,76,90]; ]
+    function getInitialView() as [WatchUi.Views] or [WatchUi.Views, WatchUi.InputDelegates] {
+C__Users_iyera_Downloads_WattPace_source_TestApp_mc_14_92_18_4_start:
+[ "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc" 15 8 ]
+        [ "C__Users_iyera_Downloads_WattPace_source_TestApp_mc_14_92_18_4_start" "C__Users_iyera_Downloads_WattPace_source_TestApp_mc_14_92_18_4_stop" ]
+        %view.1 = local;
+        symbol [ view %view.1 15 12 16 ];
+        symbol [ TestView %tmp.4 15 23 31 ];
+        %tmp.4 = getv ? :TestView;
+        %tmp.1 = newc %tmp.4 ();
+        lputv %view.1 %tmp.1;
+        symbol [ view %view.1 15 12 16 ];
+[ "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc" 16 8 ]
+        %tmp.5 = lgetv %view.1;
+        symbol [ view %tmp.5 16 17 21 ];
+        symbol [ myView ? 16 8 14 ];
+        putv self :myView %tmp.5;
+[ "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc" 17 8 ]
+        %tmp.6 = newa 1 [WatchUi.Views];
+        symbol [ WatchUi %tmp.6 17 28 35 ];
+        symbol [ Views %tmp.6 17 36 41 ];
+        %tmp.7 = lgetv %view.1;
+        symbol [ view %tmp.7 17 17 21 ];
+        %tmp.8 = dup %tmp.6;
+        %tmp.9 = aputv %tmp.8 0 %tmp.7;
+        ret %tmp.9;
+C__Users_iyera_Downloads_WattPace_source_TestApp_mc_14_92_18_4_stop:
+    }
+    [ @file = "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc"; @line = 20; @symbol_functiondef = [onStart,20,13,20]; @symbol_param<0> = [state,20,21,26]; @symbol_param<0>_type<0> = [Dictionary,20,30,40]; ]
+    function onStart(state as Dictionary or Null) as Void {
+    }
+    [ @file = "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc"; @line = 23; @symbol_functiondef = [onStop,23,13,19]; @symbol_param<0> = [state,23,20,25]; @symbol_param<0>_type<0> = [Dictionary,23,29,39]; ]
+    function onStop(state as Dictionary or Null) as Void {
+    }
+    [ @file = "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc"; @line = 27; @symbol_functiondef = [onSettingsChanged,27,13,30]; ]
+    function onSettingsChanged() as Void {
+C__Users_iyera_Downloads_WattPace_source_TestApp_mc_27_41_32_4_start:
+[ "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc" 28 8 ]
+C__Users_iyera_Downloads_WattPace_source_TestApp_mc_28_8_31_8_if_stmt:
+        symbol [ myView %tmp.2 28 12 18 ];
+        %tmp.2 = getv ? :myView;
+        %tmp.3 = null;
+        %tmp.4 = ne %tmp.2 %tmp.3;
+        bf %tmp.4 @C__Users_iyera_Downloads_WattPace_source_TestApp_mc_28_8_31_8_if_end;
+C__Users_iyera_Downloads_WattPace_source_TestApp_mc_28_8_31_8_if_true:
+C__Users_iyera_Downloads_WattPace_source_TestApp_mc_28_28_31_8_start:
+[ "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc" 29 12 ]
+        symbol [ myView %tmp.6 29 12 18 ];
+        %tmp.6 = getv ? :myView;
+        %tmp.7 = as %tmp.6 { (!Null) };
+        symbol [ loadUserSettings %tmp.8 29 19 35 ];
+        %tmp.8 = getv function %tmp.7 :loadUserSettings;
+        invoke %tmp.7 %tmp.8();
+[ "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc" 30 12 ]
+        symbol [ WatchUi %tmp.9 30 12 19 ];
+        %tmp.9 = getm $.Toybox.WatchUi;
+        symbol [ requestUpdate %tmp.10 30 20 33 ];
+        %tmp.10 = getv function %tmp.9 :requestUpdate;
+        invoke %tmp.9 %tmp.10();
+C__Users_iyera_Downloads_WattPace_source_TestApp_mc_28_28_31_8_stop:
+        goto @C__Users_iyera_Downloads_WattPace_source_TestApp_mc_28_8_31_8_if_end;
+C__Users_iyera_Downloads_WattPace_source_TestApp_mc_28_8_31_8_if_end:
+C__Users_iyera_Downloads_WattPace_source_TestApp_mc_27_41_32_4_stop:
+    }
+}
+[ @file = "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc"; @line = 36; @symbol_functiondef = [getApp,36,9,15]; @symbol_return<0> = [TestApp,36,21,28]; ]
+function getApp() as TestApp {
+C__Users_iyera_Downloads_WattPace_source_TestApp_mc_36_29_38_0_start:
+[ "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc" 37 4 ]
+    symbol [ Application %tmp.1 37 11 22 ];
+    %tmp.1 = getm $.Toybox.Application;
+    symbol [ getApp %tmp.2 37 23 29 ];
+    %tmp.2 = getv function %tmp.1 :getApp;
+    %tmp.3 = invoke %tmp.1 %tmp.2();
+    %tmp.4 = as %tmp.3 TestApp;
+    symbol [ TestApp %tmp.4 37 35 42 ];
+    ret %tmp.4;
+C__Users_iyera_Downloads_WattPace_source_TestApp_mc_36_29_38_0_stop:
+}
+[ @file = "C:\Users\iyera\Downloads\WattPace\source\TestApp.mc"; @line = 1; ]
+<init> {
+}

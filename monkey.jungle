@@ -1,0 +1,4 @@
+project.manifest = manifest.xml
+base.sourcePath = source;source-color
+edge130.sourcePath = source;source-mono
+edge130plus.sourcePath = source;source-mono
