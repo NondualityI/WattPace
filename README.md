@@ -22,6 +22,7 @@ Enter your FTP and pick a race type. WattPace calculates a target power and turn
 - Half-distance / medium fondo: 80% of FTP
 - Full-distance / century: 72% of FTP
 
+
 - Green: within the target window
 - Red: above the window, back off
 - Blue: below the window, pick it up
