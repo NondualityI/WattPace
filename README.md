@@ -17,14 +17,14 @@ I'm a national and international level junior triathlete. On long rides and tria
 **Pacing:**
 Enter your FTP and pick a race type. WattPace calculates a target power and turns the **entire field** into a pacing signal you can read at a glance.
 
-- Short TT / crit: 95% of FTP
-- Olympic / short fondo: 87% of FTP
-- Half-distance / medium fondo: 80% of FTP
-- Full-distance / century: 72% of FTP
+Short TT / crit: 95% of FTP
+Olympic / short fondo: 87% of FTP
+Half-distance / medium fondo: 80% of FTP
+Full-distance / century: 72% of FTP
 
-- Green: within the target window
-- Red: above the window, back off
-- Blue: below the window, pick it up
+Green: within the target window
+Red: above the window, back off
+Blue: below the window, pick it up
 
 The window is adjustable: ±10, ±15, ±20, or ±30 W. On screens that can't show color (monochrome Edge units) or shouldn't hold a bright fill for hours (AMOLED watches), the state is carried by black/white contrast, the text label, and an up/down arrow instead.
 
