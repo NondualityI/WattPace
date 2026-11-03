@@ -10,23 +10,21 @@ A free Garmin Connect IQ data field for cycling and triathlon, written in Monkey
 
 **Why I built it:**
 
-I race triathlon. On long rides and triathlon bike legs I kept making two mistakes: riding 30-40 W above what I could actually sustain (I felt fine until the run), and forgetting to eat because I was focused on the effort. I couldn't find a Garmin field that handled both, so I surveyed 30+ teammates at my club to check I wasn't the only one. Most had the same problem. WattPace is my attempt to take that decision-making load off an athlete who is tired, breathing hard, and reacting to other riders.
+I'm a national and international level junior triathlete. On long rides and triathlon bike legs I kept making two mistakes: riding 30-40 W above what I could actually sustain (I felt fine until the run), and forgetting to eat because I was focused on the effort. I couldn't find a Garmin field that handled both, so I surveyed 30+ teammates at my club to check I wasn't the only one. Most had the same problem. WattPace is my attempt to take that decision-making load off an athlete who is tired, breathing hard, and reacting to other riders.
 
 **What it does:**
 
 **Pacing:**
 Enter your FTP and pick a race type. WattPace calculates a target power and turns the **entire field** into a pacing signal you can read at a glance.
 
-| Race type | Target |
-| Short TT / crit | 95% of FTP |
-| Olympic / short fondo | 87% of FTP |
-| Half-distance / medium fondo | 80% of FTP |
-| Full-distance / century | 72% of FTP |
+- Short TT / crit: 95% of FTP
+- Olympic / short fondo: 87% of FTP
+- Half-distance / medium fondo: 80% of FTP
+- Full-distance / century: 72% of FTP
 
-| Color | Meaning |
-| Green | Within the target window |
-| Red | Above the window: back off |
-| Blue | Below the window: pick it up |
+- Green: within the target window
+- Red: above the window, back off
+- Blue: below the window, pick it up
 
 The window is adjustable: ±10, ±15, ±20, or ±30 W. On screens that can't show color (monochrome Edge units) or shouldn't hold a bright fill for hours (AMOLED watches), the state is carried by black/white contrast, the text label, and an up/down arrow instead.
 
@@ -41,9 +39,8 @@ The alert takes over the field for 15 seconds with a tone and a vibration patter
 **Post-ride data:**
 Two custom fields are written into the activity's FIT file once per second, so they can be charted in Garmin Connect or analyzed from the exported file:
 
-| Field | Values |
-| Pacing State | 0 start · 3 no data · 4 slow down · 5 speed up · 6 on pace |
-| Fuel Alert | 0 none · 1 take carbs · 2 water only |
+- Pacing State: 0 start · 3 no data · 4 slow down · 5 speed up · 6 on pace
+- Fuel Alert: 0 none · 1 take carbs · 2 water only
 
 They are separate fields so a fueling alert never overwrites the pacing record. Garmin Connect plots them as raw-value charts; it does not compute time-in-zone for developer fields, so that analysis is done from the FIT file.
 
